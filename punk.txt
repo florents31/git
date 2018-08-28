@@ -1,2 +1,6 @@
 Hello Flo,
+Bla bla bla on est content d'être là
+Guacamole
+Tsatsiki
+Hello it's me !
 J'aime les chouquettes mais pas trop Vim. 
