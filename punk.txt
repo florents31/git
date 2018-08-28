@@ -1,6 +1,21 @@
-Hello Flo,
-Bla bla bla on est content d'être là
-Guacamole
-Tsatsiki
-Hello it's me !
-J'aime les chouquettes mais pas trop Vim. 
+Commandes Linux
+
+pwd : affiche le nom du repertoire courant sur la sortie standard
+clear : nettoye l'invite de commande
+ls : liste le contenu d'un repertoire
+ls -a : affiche les fichiers cachés
+mv : deplace un fichier
+cat : affiche un fichier
+rm -rf dirname :  efface tout le repertoire !
+
+
+
+
+Commandes sur Vim
+
+:w : permet de sauvegarder
+:wq : permet de sauvegarder puis quitter vim
+:q! : permet de tout quitter
+dd : permet de supprimer une ligne
+u : permet de revenir à la dernière modification
+P : permet de coller
