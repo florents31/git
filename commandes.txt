@@ -6,7 +6,7 @@ git status : vérifier le status des fichier (commit ou pas)
 git add : faire passer du rouge au vert (pour pouvoir commiter)
 git commit
 git push
-
+========
 
 Commandes linux
 
@@ -21,3 +21,14 @@ mv fichier.extension repertoireDeDestination : placer un fichier dans un répert
 cat : afficher un fichier
 
 rm -rf dirname : efface tout le répertoire !!!!!! ATTENTION !!!!!!
+=======
+
+
+Commandes sur Vim
+
+:w : permet de sauvegarder
+:wq : permet de sauvegarder puis quitter vim
+:q! : permet de tout quitter
+dd : permet de supprimer une ligne
+u : permet de revenir à la dernière modification
+P : permet de coller
